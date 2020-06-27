@@ -1,0 +1,8 @@
+*.dll
+*.userprefs
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+External/*.dll
+External/*.mdb
